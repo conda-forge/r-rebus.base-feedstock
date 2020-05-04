@@ -15,15 +15,13 @@ source:
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1001
+  number: 1002
   noarch: generic
   rpaths:
     - lib/R/lib/
     - lib/
 
 requirements:
-  build:
-
   host:
     - r-base
   run:
@@ -36,10 +34,9 @@ test:
 
 about:
   home: https://github.com/richierocks/rebus.base
-  license: Unlimited
+  license: Other
   summary: Build regular expressions piece by piece using human readable code. This package contains
     core functionality, and is primarily intended to be used by package developers.
-  license_family: MIT
 
 extra:
   recipe-maintainers:
