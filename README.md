@@ -1,11 +1,11 @@
-About r-rebus.base
-==================
+About r-rebus.base-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rebus.base-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/richierocks/rebus.base
 
 Package license: Unlimited
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rebus.base-feedstock/blob/main/LICENSE.txt)
 
 Summary: Build regular expressions piece by piece using human readable code. This package contains core functionality, and is primarily intended to be used by package developers.
 
